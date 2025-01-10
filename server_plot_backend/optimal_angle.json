@@ -1,0 +1,18 @@
+{
+    "Particle_Swarm_Optimization": 68.46023504,
+    "Genetic_Algorithm": 5.69931800284629,
+    "L_BFGS_B": 0.0,
+    "Heuristic_DataFrame": 55.0,
+    "Simulated_Annealing": -20.46872027287921,
+    "Differential_Evolution": -88.98852865098345, 
+    "Bayesian_Optimization": 53.377737634841964,
+    "COBYLA": 0.0,
+    "Nealder_Mead": 0.0,
+    "Basinhopping_local_L_BFGS_B": 0.0,
+    "Gradient_Descent-CG": 0.0,
+    "TNC": 0.0,
+    "Powell": 0.0,
+    "SLSQP": 0.0,
+    "Conjugate_Gradient": 0.0,
+    "Newton_Method": 0.0
+}
