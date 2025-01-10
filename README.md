@@ -1,4 +1,6 @@
-# sonodirect_dashboard
+# Sonodirect Dashboard
+
+Dashboard Web App Link: https://sonodirect.vercel.app
 
 A new Flutter project.
 
